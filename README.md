@@ -26,7 +26,6 @@ My current hobby is artificial intelligence but I'm always looking for new adven
       <td>Game Dev</td>
       <td>
         <a href="https://unity.com/"><img alt="Unity" src="https://img.shields.io/badge/Unity-626262?style=flat&logo=unity&logoColor=white"></a>
-        <a href="https://www.renpy.org/"><img alt="Ren'Py" src="https://img.shields.io/badge/RenPy-f6e058?style=flat&logo=renpy&logoColor=a05e65"></a>
         <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white">
       </td>
     </tr>
