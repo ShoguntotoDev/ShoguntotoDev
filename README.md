@@ -14,7 +14,7 @@ Voici quelques-uns des projets auxquels je contribue actuellement :
 
 - [FormaDev](https://formadev.xyz) - La plateforme d'apprentissage pour devenir développeur.
 - [BrawlStarsStats](soon) - Une plateforme permettant de voir plein de stats sur le jeu Brawl Stars
-- 
+
 N'hésitez pas à explorer mes repositories pour voir mes travaux en cours !
 
 ## Compétences
