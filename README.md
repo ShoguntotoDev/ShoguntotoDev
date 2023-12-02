@@ -5,7 +5,7 @@ Je suis un jeune développeur web fullstack avancé, actuellement élève au Lyc
 ## À propos de moi
 
 - 🎓 J'ai 15 ans et je suis passionné par le développement web.
-- 💻 Maîtrise avancée des technologies telles que HTML, CSS, JS, React, Vue, Python, et MySQL.
+- 💻 En plein apprentissage des technologies telles que HTML, CSS, JS, React, Vue, Python, et MySQL.
 - 🚀 Je suis déterminé à améliorer mes compétences et à contribuer à des projets passionnants.
 
 ## Projets
