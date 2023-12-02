@@ -27,6 +27,15 @@ N'hésitez pas à explorer mes repositories pour voir mes travaux en cours !
 ![Python](https://img.shields.io/badge/Python-Intermediate-blueviolet)
 ![MySQL](https://img.shields.io/badge/MySQL-Beginner-lightgrey)
 
+## Statistiques GitHub
+
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=ShoguntotoDev&show_icons=true&theme=radical)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShoguntotoDev&layout=compact)
+<br>
+![Nombre d'étoiles](https://img.shields.io/github/stars/ShoguntotoDev?style=social)
+![Nombre de followers](https://img.shields.io/github/followers/ShoguntotoDev?style=social)
+
+
 ## Contact
 
 📧 Contactez-moi par email à [thomas.lekieffredev@gmail.com](mailto:thomas.lekieffredev@gmail.com).
