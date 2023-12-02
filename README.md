@@ -1,6 +1,6 @@
 # Salut, je suis Thomas ! 👋
 
-Je suis un jeune développeur web fullstack avancé, actuellement élève au Lycée Henri-Wallon à Valenciennes.
+Je suis un jeune développeur web fullstack débutant, actuellement élève au Lycée Henri-Wallon à Valenciennes.
 
 ## À propos de moi
 
@@ -13,7 +13,7 @@ Je suis un jeune développeur web fullstack avancé, actuellement élève au Lyc
 Voici quelques-uns des projets auxquels je contribue actuellement :
 
 - [FormaDev](https://formadev.xyz) - La plateforme d'apprentissage pour devenir développeur.
-- [BrawlStarsStats](soon) - Une plateforme permettant de voir plein de stats sur le jeu Brawl Stars
+- [BrawlStarsStats](soon) - Une plateforme permettant de voir plein de stats sur le jeu Brawl Stars (lien prochainement)
 
 N'hésitez pas à explorer mes repositories pour voir mes travaux en cours !
 
