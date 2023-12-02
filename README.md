@@ -12,10 +12,9 @@ Je suis un jeune développeur web fullstack avancé, actuellement élève au Lyc
 
 Voici quelques-uns des projets auxquels je contribue actuellement :
 
-- [Nom du projet](lien_vers_le_projet) - Description brève du projet.
-- [Nom du projet](lien_vers_le_projet) - Description brève du projet.
-- [Nom du projet](lien_vers_le_projet) - Description brève du projet.
-
+- [FormaDev](https://formadev.xyz) - La plateforme d'apprentissage pour devenir développeur.
+- [BrawlStarsStats](soon) - Une plateforme permettant de voir plein de stats sur le jeu Brawl Stars
+- 
 N'hésitez pas à explorer mes repositories pour voir mes travaux en cours !
 
 ## Compétences
