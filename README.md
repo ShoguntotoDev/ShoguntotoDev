@@ -20,7 +20,7 @@ N'hésitez pas à explorer mes repositories pour voir mes travaux en cours !
 ### Front-End :
 
 #### Bases :
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
