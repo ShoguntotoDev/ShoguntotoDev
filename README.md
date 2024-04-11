@@ -18,13 +18,7 @@ N'hésitez pas à explorer mes repositories pour voir mes travaux en cours !
 
 ## Compétences
 
-![HTML](https://img.shields.io/badge/HTML-Advanced-orange)
-![CSS](https://img.shields.io/badge/CSS-Advanced-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-![React](https://img.shields.io/badge/React-Beginner-green)
-![Vue](https://img.shields.io/badge/Vue-Beginner-brightgreen)
-![Python](https://img.shields.io/badge/Python-Intermediate-blueviolet)
-![MySQL](https://img.shields.io/badge/MySQL-Beginner-lightgrey)
+
 
 ## Statistiques GitHub
 
